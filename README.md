@@ -1,6 +1,6 @@
 # Python Django Demo
 
-- Github：<https://github.com/wu-wenxiang/ZZLARGE-Project-DjangoTest>
+- Github：<https://github.com/duicikeyihangaolou/project-django-demo>
 - 同步到：<https://gitee.com/wu-wen-xiang/project-django-demo>
 
 ## 1. 本地运行代码
@@ -8,7 +8,7 @@
 - Python3.5+
 - `.\test.sh`
 - `.\start.sh`
-- Fabric 一键部署：Ubuntu 1604，[Gitbub](https://github.com/wu-wenxiang/Project-Python-Webdev/tree/master/u1604-fabric) 或 [Gitee](https://gitee.com/wu-wen-xiang/project-python-webdev-demo)
+- Fabric 一键部署：Ubuntu 1604，[Gitbub](https://github.com/duicikeyihangaolou/project-python-webdev/tree/master/u1604-fabric) 或 [Gitee](https://gitee.com/wu-wen-xiang/project-python-webdev-demo)
 
 ## 2. 制作 Docker 镜像
 

@@ -1,7 +1,7 @@
 [all:vars]
 image_name="registry.cn-shanghai.aliyuncs.com/99cloud-sh/djangotest-1.11.29"
 # image_version="latest"
-data_external_dir="/Users/wuwenxiang/local/github-mine/ZZLARGE-Project-DjangoTest/mysite/data/"
+data_external_dir="/Users/wuwenxiang/local/github-mine/project-django-demo/mysite/data/"
 data_hostpath="/home/pear/data/djangotest-1.11.29/"
 # update_data=no
 data_containerpath="/home/www/mysite/src/mysite/data/"

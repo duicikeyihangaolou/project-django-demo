@@ -1,4 +1,4 @@
-# https://github.com/wu-wenxiang/Doc-Common/blob/master/config-docker/Dockerfile
+# https://github.com/duicikeyihangaolou/doc-common/blob/master/config-docker/Dockerfile
 
 # Build folder
 # FROM maodouzi/django:1.11.29
