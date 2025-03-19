@@ -1,9 +1,3 @@
-'''
-Created on 2016-01-17
-
-@author: Wu Wenxiang (wuwenxiang.sh@gmail.com)
-'''
-
 import logging
 import os
 import shutil
